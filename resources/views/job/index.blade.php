@@ -1,5 +1,4 @@
 <div>
-    <!-- Well begun is half done. - Aristotle -->
     <h1>Job Board</h1>
     @foreach($jobs as $job)
         <div>
